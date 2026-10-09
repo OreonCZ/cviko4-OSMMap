@@ -1,0 +1,10 @@
+/Users/oreoncz/Documents/csharp/cviko4/MapRendererLib/bin/Debug/netstandard2.0/MapRendererLib.deps.json
+/Users/oreoncz/Documents/csharp/cviko4/MapRendererLib/bin/Debug/netstandard2.0/MapRendererLib.dll
+/Users/oreoncz/Documents/csharp/cviko4/MapRendererLib/bin/Debug/netstandard2.0/MapRendererLib.pdb
+/Users/oreoncz/Documents/csharp/cviko4/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.csproj.AssemblyReference.cache
+/Users/oreoncz/Documents/csharp/cviko4/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oreoncz/Documents/csharp/cviko4/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.AssemblyInfoInputs.cache
+/Users/oreoncz/Documents/csharp/cviko4/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.AssemblyInfo.cs
+/Users/oreoncz/Documents/csharp/cviko4/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.csproj.CoreCompileInputs.cache
+/Users/oreoncz/Documents/csharp/cviko4/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.dll
+/Users/oreoncz/Documents/csharp/cviko4/MapRendererLib/obj/Debug/netstandard2.0/MapRendererLib.pdb

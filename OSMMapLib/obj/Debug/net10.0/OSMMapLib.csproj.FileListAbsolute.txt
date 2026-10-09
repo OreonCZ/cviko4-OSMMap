@@ -1,0 +1,15 @@
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/bin/Debug/net10.0/OSMMapLib.deps.json
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/bin/Debug/net10.0/OSMMapLib.dll
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/bin/Debug/net10.0/OSMMapLib.pdb
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/obj/Debug/net10.0/OSMMapLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/obj/Debug/net10.0/OSMMapLib.AssemblyInfoInputs.cache
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/obj/Debug/net10.0/OSMMapLib.AssemblyInfo.cs
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/obj/Debug/net10.0/OSMMapLib.csproj.CoreCompileInputs.cache
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/obj/Debug/net10.0/OSMMapLib.dll
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/obj/Debug/net10.0/refint/OSMMapLib.dll
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/obj/Debug/net10.0/OSMMapLib.pdb
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/obj/Debug/net10.0/ref/OSMMapLib.dll
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/obj/Debug/net10.0/OSMMapLib.csproj.AssemblyReference.cache
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/bin/Debug/net10.0/MapRendererLib.dll
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/bin/Debug/net10.0/MapRendererLib.pdb
+/Users/oreoncz/Documents/csharp/cviko4/OSMMapLib/obj/Debug/net10.0/OSMMapLib.csproj.Up2Date

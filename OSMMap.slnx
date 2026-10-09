@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MapRendererLib/MapRendererLib.csproj" />
+  <Project Path="OSMMap/OSMMap.csproj" />
+  <Project Path="OSMMapLib/OSMMapLib.csproj" />
+</Solution>
